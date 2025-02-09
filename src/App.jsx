@@ -1,6 +1,5 @@
 import './App.css'
 import FilterableProductTable from './components/FilterableProductTable'
-import SearchBar from './components/SearchBar'
 
 const App = () => {
   const products = [
